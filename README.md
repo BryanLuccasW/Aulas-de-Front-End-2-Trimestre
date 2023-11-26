@@ -1,1 +1,2 @@
-# Aulas-de-Front-End-2-Trimestre
+# EfeitosSonorosRadioGremio
+Mesa de mídias com áudios para efeitos sonoros especiais da rádio Grêmio Estudantil
